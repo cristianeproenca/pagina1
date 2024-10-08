@@ -6,7 +6,8 @@
 * Artes🎨
 * Educação Fisica📚
 *pretendo cursar medicina veterinaria🐶🐱🐴🐑
-*Hobbies Desenhar 🎨
+*Hobbies
+ Desenhar 🎨
 Fazer unhas 💅
 Cozinhar🍲
 Adoro os animais
