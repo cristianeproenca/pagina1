@@ -30,7 +30,7 @@
   .box{
       width:300px;
       height:200px;
-      background-color: #5bc7c7;
+      background-color: #0a8181;
       border-radius: 10px;
       margin:2%;
   }
@@ -39,7 +39,7 @@
       padding: 2% 0;
   }
   #a{
-      background-color:rgb(88, 88, 241);
+      background-color:rgb(127, 4, 138);
       margin:0;
       border-radius: 10px;
       display:flex;
@@ -53,7 +53,7 @@
       margin:0;
   }
   #tituloPrincipal{
-      color:rgb(21, 39, 67);
+      color:rgb(26, 78, 161);
       font-size: 40px;
       font-family:'Times New Roman';
       text-align: center;
