@@ -30,7 +30,7 @@
   .box{
       width:300px;
       height:200px;
-      background-color: #0a8181;
+      background-color: #dda4f8;
       border-radius: 10px;
       margin:2%;
   }
@@ -39,7 +39,7 @@
       padding: 2% 0;
   }
   #a{
-      background-color:rgb(127, 4, 138);
+      background-color:rgb(170, 226, 236);
       margin:0;
       border-radius: 10px;
       display:flex;
